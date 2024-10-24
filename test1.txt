@@ -1,1 +1,1 @@
-Fruit: none
+Fruit: mango
